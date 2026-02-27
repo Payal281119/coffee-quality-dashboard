@@ -99,32 +99,30 @@ To visually explore coffee quality patterns and reveal relationships between sen
 ### 1️⃣ Overall Performance Dashboard
 Shows key KPIs including Total Samples, Average Cup Points, and Quality Distribution.
 
-![Overall Dashboard](https://github.com/YOUR-USERNAME/YOUR-REPO/blob/main/screenshots/dashboard1.png)
+![Overall Dashboard](https://github.com/Payal281119/coffee-quality-dashboard/blob/main/Snapshotshot%20of%20the%20Coffee%20Quality%20Dashboard%201.png)
 
 ---
 
-### 2️⃣ Sensory Analysis Dashboard
+### 2️⃣Total Cup Points Dashboard
+
+
+![Total CupPoints Analysis](https://github.com/Payal281119/coffee-quality-dashboard/blob/main/Snapshotshot%20of%20the%20Coffee%20Quality%20Dashboard%202.png)
+
+---
+
+### 3️⃣ Sensory Analysis Dashboard
 Visualizes aroma, flavor, acidity, and aftertaste impact on coffee quality scores.
 
-![Sensory Analysis](https://github.com/YOUR-USERNAME/YOUR-REPO/blob/main/screenshots/dashboard2.png)
-
----
-
-### 3️⃣ Processing Method Analysis
-Compares different coffee processing methods and their effect on quality.
-
-![Processing Analysis](https://github.com/YOUR-USERNAME/YOUR-REPO/blob/main/screenshots/dashboard3.png)
+![Sensory Analysis](https://github.com/Payal281119/coffee-quality-dashboard/blob/main/Snapshotshot%20of%20the%20Coffee%20Quality%20Dashboard%203.png)
 
 ---
 
 ### 4️⃣ Defect & Quality Insights
 Analyzes defects and their relationship with Total Cup Points.
 
-![Defect Analysis](https://github.com/YOUR-USERNAME/YOUR-REPO/blob/main/screenshots/dashboard4.png)
+![Defect Analysis](https://github.com/Payal281119/coffee-quality-dashboard/blob/main/Snapshotshot%20of%20the%20Coffee%20Quality%20Dashboard%204.png)
 
----
 
-### 5️⃣ Country-wise Quality Distribution
-Shows global distribution of coffee quality across producing countries.
+
 
 ![Country Analysis](https://github.com/YOUR-USERNAME/YOUR-REPO/blob/main/screenshots/dashboard5.png)
