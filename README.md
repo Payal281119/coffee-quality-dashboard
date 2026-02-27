@@ -104,7 +104,7 @@ Shows key KPIs including Total Samples, Average Cup Points, and Quality Distribu
 ---
 
 ### 2️⃣Total Cup Points Dashboard
-
+Shows Total Cup Points with different flavours
 
 ![Total CupPoints Analysis](https://github.com/Payal281119/coffee-quality-dashboard/blob/main/Snapshotshot%20of%20the%20Coffee%20Quality%20Dashboard%202.png)
 
@@ -123,6 +123,3 @@ Analyzes defects and their relationship with Total Cup Points.
 ![Defect Analysis](https://github.com/Payal281119/coffee-quality-dashboard/blob/main/Snapshotshot%20of%20the%20Coffee%20Quality%20Dashboard%204.png)
 
 
-
-
-![Country Analysis](https://github.com/YOUR-USERNAME/YOUR-REPO/blob/main/screenshots/dashboard5.png)
